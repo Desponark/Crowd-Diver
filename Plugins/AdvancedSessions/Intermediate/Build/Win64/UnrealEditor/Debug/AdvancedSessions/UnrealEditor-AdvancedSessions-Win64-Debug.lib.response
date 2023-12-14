@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSessions-Win64-Debug.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Debug\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Debug\AdvancedSessions\Module.AdvancedSessions.gen.1_of_3.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Debug\AdvancedSessions\Module.AdvancedSessions.gen.2_of_3.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Debug\AdvancedSessions\Module.AdvancedSessions.gen.3_of_3.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Debug\AdvancedSessions\UnrealEditor-AdvancedSessions-Win64-Debug.lib"
