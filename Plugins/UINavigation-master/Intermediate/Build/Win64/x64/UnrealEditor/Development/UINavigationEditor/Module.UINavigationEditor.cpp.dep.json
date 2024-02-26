@@ -1,0 +1,42 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\minek\\perforce\\anderson.martinez_andy_8069\\projectx\\plugins\\uinavigation-master\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uinavigationeditor\\module.uinavigationeditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\minek\\perforce\\anderson.martinez_andy_8069\\projectx\\intermediate\\build\\win64\\x64\\projectxeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\minek\\perforce\\anderson.martinez_andy_8069\\projectx\\plugins\\uinavigation-master\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uinavigationeditor\\definitions.uinavigationeditor.h",
+            "c:\\users\\minek\\perforce\\anderson.martinez_andy_8069\\projectx\\plugins\\uinavigation-master\\source\\uinavigationeditor\\private\\uinavigationeditor.cpp",
+            "c:\\users\\minek\\perforce\\anderson.martinez_andy_8069\\projectx\\plugins\\uinavigation-master\\source\\uinavigationeditor\\public\\uinavigationeditor.h",
+            "c:\\users\\minek\\perforce\\anderson.martinez_andy_8069\\projectx\\plugins\\uinavigation-master\\source\\uinavigation\\public\\uinavsettings.h",
+            "f:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "f:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "f:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "f:\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "f:\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "f:\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "f:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmappingcontext.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedactionkeymapping.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmappingquery.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmappingquery.generated.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedactionkeymapping.generated.h",
+            "f:\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmappingcontext.generated.h",
+            "c:\\users\\minek\\perforce\\anderson.martinez_andy_8069\\projectx\\plugins\\uinavigation-master\\source\\uinavigation\\public\\data\\uinavenhancedinputactions.h",
+            "c:\\users\\minek\\perforce\\anderson.martinez_andy_8069\\projectx\\plugins\\uinavigation-master\\intermediate\\build\\win64\\unrealeditor\\inc\\uinavigation\\uht\\uinavenhancedinputactions.generated.h",
+            "c:\\users\\minek\\perforce\\anderson.martinez_andy_8069\\projectx\\plugins\\uinavigation-master\\intermediate\\build\\win64\\unrealeditor\\inc\\uinavigation\\uht\\uinavsettings.generated.h",
+            "f:\\ue_5.3\\engine\\source\\developer\\settings\\public\\isettingsmodule.h",
+            "f:\\ue_5.3\\engine\\source\\developer\\settings\\public\\isettingssection.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
