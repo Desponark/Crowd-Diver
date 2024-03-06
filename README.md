@@ -1,7 +1,8 @@
 [![Header Image of the Game](https://github.com/Desponark/Crowd-Diver/assets/129955348/3f0940d3-2d6c-4fe3-bdc7-a00ede518d75)](https://s4g.itch.io/crowd-diver)
 
 # Crowd Diver (Student Project)
-Homepage: https://s4g.itch.io/crowd-diver, Steampage: https://store.steampowered.com/app/2837640/Crowd_Diver
+- Homepage: https://s4g.itch.io/crowd-diver
+- Steampage: https://store.steampowered.com/app/2837640/Crowd_Diver
 
 **3D Third-Person Asymmetrical Stealth Multiplayer Game made in Unreal Engine 5.3**
 
