@@ -8,7 +8,7 @@
 
 In Crowd Diver you can immerse yourself in the role of the Seeker, tasked with protecting the city from impending evil. Alternatively, you can become the Monster, seeking to wreak destruction and eliminate targets disguised.
 
-### Gameplay
+## Gameplay
 - Seeker
   - Identify and hunt down the Monster players in order to save the day and win the game.
 - Monster
@@ -17,17 +17,17 @@ In Crowd Diver you can immerse yourself in the role of the Seeker, tasked with p
   - Use doors and teleporter to move quickly to other parts of the map.
   - The map presents itself as a unique environment in the futuristic style of Solarpunk. With its innovative design and captivating atmosphere, it offers players a visually impressive setting for their adventures.
 
-### Roles
+## Roles
 - Team Lead, Engineer Lead, Gameplay Programmer, Network Programmer
 
-### Engine / Language
+## Engine / Language
 - Unreal Engine 5.3, Mostly Blueprints, ~1% C++
 
-### Plugins
+## Plugins
 - [Advanced Sessions Plugin](https://forums.unrealengine.com/t/advanced-sessions-plugin/30020) (Used for multiplayer connection & steam implementation)
 - [UI Navigation 3.0](https://www.unrealengine.com/marketplace/en-US/product/ui-navigation-3)
 
-### Responsibilities
+## Responsibilities
 - Multiplayer & fixing Multiplayer bugs
 - Advanced Sessions Plugin implementation
 - Most Gameplay features
