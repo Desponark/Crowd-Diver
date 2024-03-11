@@ -3476,6 +3476,26 @@
 		{
 			"Path": "$(ProjectDir)/Plugins/AdvancedSteamSessions/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UINavigation-master/Binaries/Win64/UnrealEditor-UINavigation.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UINavigation-master/Binaries/Win64/UnrealEditor-UINavigation.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UINavigation-master/Binaries/Win64/UnrealEditor-UINavigationEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UINavigation-master/Binaries/Win64/UnrealEditor-UINavigationEditor.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UINavigation-master/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
@@ -24777,6 +24797,10 @@
 		},
 		{
 			"Path": "$(ProjectDir)/Plugins/AdvancedSteamSessions/AdvancedSteamSessions.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UINavigation-master/UINavigation.uplugin",
 			"Type": "UFS"
 		},
 		{
