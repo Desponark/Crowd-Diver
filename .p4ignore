@@ -256,6 +256,7 @@ Content/
 # Ignore intermediate folders
 Intermediate/
 obj/
+Plugins/**/Intermediate/
 
 # Ignore any saved local files
 Saved/

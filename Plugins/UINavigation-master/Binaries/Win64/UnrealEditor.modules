@@ -1,8 +1,0 @@
-{
-	"BuildId": "27405482",
-	"Modules": 
-	{
-		"UINavigation": "UnrealEditor-UINavigation.dll",
-		"UINavigationEditor": "UnrealEditor-UINavigationEditor.dll"
-	}
-}
